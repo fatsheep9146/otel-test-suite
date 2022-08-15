@@ -1,2 +1,4 @@
 # otel-test-suite
-otel related test suite
+
+## machine preparation
+
